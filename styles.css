@@ -1,0 +1,38 @@
+*{
+    
+    margin:0; 
+}
+
+.nav ul{
+    background-color: cornsilk;
+    display: flex;
+    margin: 0px;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 30px;
+}
+
+nav li{
+    float: right;
+}
+.nav a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+
+}
+
+.nav a:hover{
+    background-color: rgb(230, 227, 227);
+}
+
+.hero{
+    background-color: aquamarine;
+    background-image:url(3D.webp);
+    background-position: top;
+    padding-top: 200px;
+    padding-bottom: 500px;
+    background-size: auto;
+    
+}
